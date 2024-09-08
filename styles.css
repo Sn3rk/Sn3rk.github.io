@@ -1,7 +1,9 @@
 body {
 	margin: 0;
-	background-color:black:
 	text-align:center;
+	background-color:black;
+	color:white;
+	font-size:16px;
 }
 
 h3 {
