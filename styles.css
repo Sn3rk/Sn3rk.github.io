@@ -1,5 +1,10 @@
 body {
 	margin: 0;
-	background-color: black:
-	text-align: center;
+	background-color:black:
+	text-align:center;
+}
+
+h3 {
+	background-color:green;
+	text-align:left;
 }
