@@ -1,14 +1,41 @@
 
-* {
+p {
 	margin: 0;
-	text-align:center;
-	background-color:black;
-	color:white;
-	font-size:16px;
+	text-align: center;
+	background-color: black;
+	color: white;
+	font-size: 16px;
+	padding-left: 5%;
+	padding right 5%;
 }
 
-h3 {
+.head {
+	margin: 0;
 	background-color:green;
-	text-align:left;
+	text-align: center;
 	color:black;
+	padding: 10px;
+	padding-left: 2px;
+	
+}
+
+.head p {
+	margin: 0;
+	padding: 2;
+	background-color: green;
+}
+
+.head_buttons {
+	float: right;
+	margin: 0;
+	padding: 2;
+	background-color: green;
+}
+
+#title {
+	float: left;
+}
+
+body {
+	background-color: black;
 }
