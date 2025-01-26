@@ -1,9 +1,38 @@
 div {
-  border: 3px solid #000;
+  margin: 0px;
 }
 
 #top {
+  background-color: green;
   position: sticky;
-  top: 10%:
-  left: 0;
+  top: 0px:
+  left: 0px;
 }
+
+#left {
+  background-color: blue;
+  position: absolute;
+  top 50px;
+  left: 0px;
+  height: 100%;
+  width: 20%; 
+}
+
+#center {
+  background-color: gray; 
+  position: absolute;
+  top: 50px;
+  left: 20%;
+  right: 20%;
+  height: 100%;
+  width: 60%;
+}
+
+#right {
+  background-color: red;
+  position: absolute;
+  top: 50px;
+  left: 80%;
+  height: 100%;
+  width: 20%;
+
